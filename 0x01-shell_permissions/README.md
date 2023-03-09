@@ -25,3 +25,5 @@ Script 11-directories_permissions gives execute permissions to all subdirectorie
 Script 12-directory_permissions writes a script that makes a directory and sets its permissions in one command
 
 Script 13-change_group changes the group owner of the hello file to school
+
+Script 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
