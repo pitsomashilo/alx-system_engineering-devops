@@ -23,3 +23,5 @@ Script 9-John_Doe sets permissions for the hello file
 Script 11-directories_permissions gives execute permissions to all subdirectories of the current directory
 
 Script 12-directory_permissions writes a script that makes a directory and sets its permissions in one command
+
+Script 13-change_group changes the group owner of the hello file to school
