@@ -17,3 +17,5 @@ Script 7-everybody adds executable permissions to the file hello for all users
 Script 8-James_Bond sets the permissions to the file hello by giving the user and group owner no permissions and all the permissions to other users
 
 Script 9-John_Doe sets permissions for the hello file
+
+10-mirror_permissions script copies the permissions of olleh and assigns them to hello
