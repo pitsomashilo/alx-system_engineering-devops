@@ -13,3 +13,5 @@ Scrip 5-execute adds execute permissions to the owner of the file hello
 Script 6-multiple_permissions adds execute permission to the owner and group owner, and read permission to the other users, to the file hello
 
 Script 7-everybody adds executable permissions to the file hello for all users
+
+Script 8-James_Bond sets the permissions to the file hello by giving the user and group owner no permissions and all the permissions to other users
