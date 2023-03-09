@@ -27,3 +27,5 @@ Script 12-directory_permissions writes a script that makes a directory and sets 
 Script 13-change_group changes the group owner of the hello file to school
 
 Script 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
+
+Script 101-symbolic_link_permissions changes the group and ownwer of a symbolic link
