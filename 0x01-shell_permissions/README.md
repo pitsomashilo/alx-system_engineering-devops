@@ -19,3 +19,5 @@ Script 8-James_Bond sets the permissions to the file hello by giving the user an
 Script 9-John_Doe sets permissions for the hello file
 
 10-mirror_permissions script copies the permissions of olleh and assigns them to hello
+
+Script 11-directories_permissions gives execute permissions to all subdirectories of the current directory
