@@ -21,3 +21,5 @@ Script 9-John_Doe sets permissions for the hello file
 10-mirror_permissions script copies the permissions of olleh and assigns them to hello
 
 Script 11-directories_permissions gives execute permissions to all subdirectories of the current directory
+
+Script 12-directory_permissions writes a script that makes a directory and sets its permissions in one command
