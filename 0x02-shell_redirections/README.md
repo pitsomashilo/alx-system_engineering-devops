@@ -33,3 +33,5 @@ Script 14-findthatword displays lines containing the pattern root form the file 
 Script 15-countthatword displays the number of lines that contain the pattern bin in the file /etc/passwd
 
 Script 16-whatsnext displays lines containing the pattern root and 3 lines after them in the file /etc/passwd
+
+Script 17-hidethisword displays all the lines in the /etc/passwd file that do not contain the pattern bin
