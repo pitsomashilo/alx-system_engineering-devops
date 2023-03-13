@@ -5,3 +5,5 @@ Script 0-hello_world prints Hello, World followed by a new line to the standard 
 Script 1-confused_smiley displays a confused smiley on the terminal
 
 Script 2-hellofile displays the contents of the /etc/passwd file
+
+Script 3-twofiles displays the contents of /etc/passwd and /etc/hosts
