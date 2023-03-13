@@ -43,3 +43,5 @@ Script 19-AZ replaces all characters A nd c from input to Z and e respectively
 Script that removes all letters c and C from input
 
 Script 21-reverse reverses its input
+
+Script 22-users_and_homes displays all users and their home directories, sorted by users
