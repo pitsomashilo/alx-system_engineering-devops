@@ -1,2 +1,2 @@
 #!/bin/bash
-cut --delimiter=: /etc/password
+sort | cut -d : --fields=5,6 /etc/password
