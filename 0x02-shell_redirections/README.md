@@ -8,4 +8,4 @@ Script 2-hellofile displays the contents of the /etc/passwd file
 
 Script 3-twofiles displays the contents of /etc/passwd and /etc/hosts
 
-Script 4-lastlines displas the last 10 lines of /etc/passwd
+Script 4-lastlines displays the last 10 lines of /etc/passwd
