@@ -8,3 +8,5 @@ Script 2-path adds /action to the PATH where /action should be the last director
 Script 3-paths counts the number of directories in the PATH variable
 
 Script 4-global_variables lists environment variables
+
+Script 5-local_variables lists all local variables, environment variables and functions
