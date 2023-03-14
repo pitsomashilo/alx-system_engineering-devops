@@ -1,5 +1,6 @@
 Shell Variables and Expansions
-\nScript 0-alias creates an alias named ls with the value rm*
+
+Script 0-alias creates an alias named ls with the value rm*
 
 Script 1-hello_you prints hello user, where user is the current Linux user
 
@@ -22,3 +23,7 @@ Script 9-divide_and_rule prints the result of POWER divided by DIVIDE, which are
 Script 10-love_exponent_breath displays the result of BREATH to the power of LOVE
 
 Script 11-binary_to_decimal converts a number from base 2 to base 10
+
+Script 12-combinations prints all possible combinations of two letters, except oo
+
+Script 13-print_float prints a number with two decimal places, followed by a new line
